@@ -1,0 +1,4 @@
+student name:madhuri
+course:3rd Bsc(computer science)
+suc code:2361530106
+college name:Aditya womens degree college
